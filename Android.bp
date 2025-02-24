@@ -1,0 +1,4 @@
+cc_binary {
+    name: "PN7220_NFC_Factory_Test_Application",
+    srcs: ["NfcFactoryTestApp.c"],
+}

@@ -1,0 +1,42 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2025-02-17T09:29:00Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.20"
+  },
+  "name": "PN7220 NFC Factory Test Application-1.1",
+  "dataLicense": "CC0-1.0",
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-a6da902b-3417-4c65-bc30-f06fef4dd80e",
+      "extractedText": "NONE",
+      "name": "LA_OPT_NXP_Software_License v59 December 2024 clause 2.3"
+    }
+  ],
+  "documentNamespace": "https://nxp.com/spdx/93fd7d63-375d-48f9-afa0-6679b74879b0",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-93fd7d63-375d-48f9-afa0-6679b74879b0",
+      "name": "PN7220 NFC Factory Test Application",
+      "versionInfo": "1.1",
+      "licenseConcluded": "(LicenseRef-a6da902b-3417-4c65-bc30-f06fef4dd80e)",
+      "licenseDeclared": "(LicenseRef-a6da902b-3417-4c65-bc30-f06fef4dd80e)",
+      "downloadLocation": "https://github.com/NXPNFCLinux",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-93fd7d63-375d-48f9-afa0-6679b74879b0"
+    }
+  ]
+}
